@@ -40,10 +40,9 @@ Hello, my name's Emanuel. I student in Industrial Automation and Software Develo
 ## Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&bg_color=232323&text_color=ffffff&icon_color=00e676&title_color=ffffff&hide_border=true" height="150" alt="stats card" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&bg_color=232323&text_color=ffffff&title_color=ffffff&hide_border=true" height="150" alt="languages card" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Emanuellehnert&theme=dark&show_icons=true" alt="Emanuelle Stats" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emanuellehnert&theme=dark&layout=compact" alt="Emanuelle Languages" height="150" />
 </p>
-
 
 ## My Contribution 
 

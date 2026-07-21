@@ -37,3 +37,11 @@ Hello, my name's Emanuel. I student in Industrial Automation and Software Develo
 ![Docker](https://img.shields.io/badge/DOCKER-232323?style=for-the-badge&logo=docker&logoColor=2496ED)
 
 
+
+##  My Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Emanuellehnert/Emanuellehnert/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Emanuellehnert/Emanuellehnert/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Emanuellehnert/Emanuellehnert/output/github-contribution-grid-snake.svg">
+</picture>

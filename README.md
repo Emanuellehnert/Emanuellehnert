@@ -38,7 +38,7 @@ Hello, my name's Emanuel. I student in Industrial Automation and Software Develo
 
 
 
-##  My Contribution Snake
+## 🐍 My Contribution Snake
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Emanuellehnert/Emanuellehnert/output/github-contribution-grid-snake-dark.svg">

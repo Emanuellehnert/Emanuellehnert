@@ -37,8 +37,15 @@ Hello, my name's Emanuel. I student in Industrial Automation and Software Develo
 ![Docker](https://img.shields.io/badge/DOCKER-232323?style=for-the-badge&logo=docker&logoColor=2496ED)
 
 
+## Stats
 
-## 🐍 My Contribution Snake
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&bg_color=232323&text_color=ffffff&icon_color=00e676&title_color=ffffff&hide_border=true" height="150" alt="stats card" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&bg_color=232323&text_color=ffffff&title_color=ffffff&hide_border=true" height="150" alt="languages card" />
+</p>
+
+
+## My Contribution 
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Emanuellehnert/Emanuellehnert/output/github-contribution-grid-snake-dark.svg">

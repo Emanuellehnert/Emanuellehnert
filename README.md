@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=220&section=header&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:212121,100:616161&height=220&section=header&animation=fadeIn" width="100%" />
 </p>
 
 About me
-
+<font size="4">
 
 Hello, my name's Emanuel. I student in Industrial Automation and Software Development.  I bridge the gap between physical machinery and modern software—combining smart hardware, industrial logic, and clean code to build efficient, real-world solutions."
 
@@ -36,7 +36,3 @@ Hello, my name's Emanuel. I student in Industrial Automation and Software Develo
 ![Docker](https://img.shields.io/badge/DOCKER-232323?style=for-the-badge&logo=docker&logoColor=2496ED)
 
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Emanuellehnert&show_icons=true&theme=radial" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emanuellehnert&layout=compact&theme=radial" />
-</p>

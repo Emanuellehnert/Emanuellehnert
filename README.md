@@ -40,8 +40,7 @@ Hello, my name's Emanuel. I student in Industrial Automation and Software Develo
 ## Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Emanuellehnert&theme=dark&show_icons=true" alt="Emanuelle Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emanuellehnert&theme=dark&layout=compact" alt="Emanuelle Languages" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Emanuellehnert&theme=dark&background=0d1117&fire=00e676&sidegreens=00e676&hide_border=true" alt="GitHub Streak Stats" />
 </p>
 
 ## My Contribution 

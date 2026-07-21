@@ -30,3 +30,9 @@ Hello, my name's Emanuel. I student in Industrial Automation and Software Develo
 ### Tools & DevOps
 ![Git](https://img.shields.io/badge/GIT-232323?style=for-the-badge&logo=git&logoColor=F05032)
 ![Docker](https://img.shields.io/badge/DOCKER-232323?style=for-the-badge&logo=docker&logoColor=2496ED)
+
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Emanuellehnert&show_icons=true&theme=radial" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emanuellehnert&layout=compact&theme=radial" />
+</p>

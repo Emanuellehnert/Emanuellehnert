@@ -29,13 +29,14 @@ Hello, my name's Emanuel. I student in Industrial Automation and Software Develo
 ### Databases
 ![MySQL](https://img.shields.io/badge/MYSQL-232323?style=for-the-badge&logo=mysql&logoColor=4479A1)
 
-### Industrial Automation
+### Industrial Automation & Hardware
 ![Ladder Logic](https://img.shields.io/badge/LADDER_LOGIC-232323?style=for-the-badge&logo=microchip&logoColor=00E676)
+![Arduino](https://img.shields.io/badge/ARDUINO-232323?style=for-the-badge&logo=arduino&logoColor=00979D)
 
-### Tools & DevOps
+### Networking & Tools
+![Cisco Packet Tracer](https://img.shields.io/badge/CISCO_PACKET_TRACER-232323?style=for-the-badge&logo=cisco&logoColor=1BA0D7)
 ![Git](https://img.shields.io/badge/GIT-232323?style=for-the-badge&logo=git&logoColor=F05032)
 ![Docker](https://img.shields.io/badge/DOCKER-232323?style=for-the-badge&logo=docker&logoColor=2496ED)
-
 
 ## Stats
 

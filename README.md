@@ -1,10 +1,11 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:212121,100:616161&height=220&section=header&animation=fadeIn" width="100%" />
 </p>
-
-About me
 <font size="4">
+  
+About me
 
+</font>
 Hello, my name's Emanuel. I student in Industrial Automation and Software Development.  I bridge the gap between physical machinery and modern software—combining smart hardware, industrial logic, and clean code to build efficient, real-world solutions."
 
 🎓 Student of Industrial Automation

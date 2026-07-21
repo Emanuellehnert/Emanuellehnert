@@ -1,4 +1,6 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:161b22,100:00e676&height=220&section=header&text=Hello,%20I'm%20SEU_NOME!%20⚡&fontSize=38&fontColor=ffffff&animation=fadeIn)
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=220&section=header&animation=fadeIn" width="100%" />
+</p>
 
 About me
 

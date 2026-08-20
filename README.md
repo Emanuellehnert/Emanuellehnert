@@ -38,11 +38,6 @@ Hello, my name's Emanuel. I student in Industrial Automation and Software Develo
 ![Git](https://img.shields.io/badge/GIT-232323?style=for-the-badge&logo=git&logoColor=F05032)
 ![Docker](https://img.shields.io/badge/DOCKER-232323?style=for-the-badge&logo=docker&logoColor=2496ED)
 
-## Stats
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Emanuellehnert&theme=dark&background=0d1117&fire=00e676&sidegreens=00e676&hide_border=true" alt="GitHub Streak Stats" />
-</p>
 
 ## My Contribution 
 
